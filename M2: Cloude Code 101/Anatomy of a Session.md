@@ -1,5 +1,10 @@
-![Tools Out of the box](<img width="1382" height="665" alt="image" src="https://github.com/user-attachments/assets/c91fa99a-0564-4104-8036-7a12694fe9d4" />
-)
+Tools Out of the box:
+<img width="1382" height="665" alt="image" src="https://github.com/user-attachments/assets/5e6baae0-9a3e-462a-9262-817a56db7f9c" />
+
+
+
+
+
 
 Edit Modes: Three levels
 1. Defult Mode: Ask First
