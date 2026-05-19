@@ -1,4 +1,4 @@
-Tools Out of the box:
+# Title Tools Out of the box:
 <img width="1382" height="665" alt="image" src="https://github.com/user-attachments/assets/5e6baae0-9a3e-462a-9262-817a56db7f9c" />
 
 
@@ -6,7 +6,7 @@ Tools Out of the box:
 
 
 
-Edit Modes: Three levels
+# Title Edit Modes: Three levels
 1. Defult Mode: Ask First
 2. Accept Edits Mode : Auto Apply
 3. Plan Mode : Read, think, don't write.
